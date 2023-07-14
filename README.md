@@ -1,4 +1,4 @@
-# Images_preprcessing_filters
+# Image_preprcessing_filters
 - 5 image preprocessing filters.
 - median filter
 - Gaussian noise.
